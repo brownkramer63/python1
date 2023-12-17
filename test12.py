@@ -1,4 +1,4 @@
 kramer=2
 max = 3
-print(kramer+max)
+print(kramer)
 #comment one
